@@ -1,3 +1,3 @@
-# bookbot
+# BookBot
 
-This project anaylyzes books by counting character occurences in them.
+This project analyzes books by counting character occurences in them.
