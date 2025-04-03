@@ -22,7 +22,6 @@ def get_report_data(chars_dict):
 
 def report(path, text):
     words = get_num_words(text)
-    print(f"{words} words found in the document")
     chars_list = get_num_chars(text)
     chars_dict = get_report_data(chars_list)
 
